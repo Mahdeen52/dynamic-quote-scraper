@@ -10,7 +10,7 @@ This project scrapes quotes from a website and cleans the data for analysis.
 
 ## Requirements
 
-- Python 3.x
+- Python 3.13.7
 - Jupyter Notebook
 - Libraries: selenium, beautifulsoup4, pandas, lxml, webdriver-manager
 
