@@ -1,4 +1,4 @@
-# Dynamic Quote Scraper
+# QuoteMiner
 
 This project scrapes quotes from a website and cleans the data for analysis.
 
